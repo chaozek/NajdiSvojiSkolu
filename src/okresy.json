@@ -1,0 +1,501 @@
+ [
+      {
+          "id": "CZ0512",
+          "zkratka": "Jablonec nad Nisou",
+          "nazev": "Jablonec nad Nisou",
+          "nuts4": "CZ0512"
+      },
+      {
+          "id": "CZ0522",
+          "zkratka": "Jičín",
+          "nazev": "Jičín",
+          "nuts4": "CZ0522"
+      },
+      {
+          "id": "CZ0209",
+          "zkratka": "Praha-východ",
+          "nazev": "Praha-východ",
+          "nuts4": "CZ0219"
+      },
+      {
+          "id": "CZ0723",
+          "zkratka": "Vsetín",
+          "nazev": "Vsetín",
+          "nuts4": "CZ0723"
+      },
+      {
+          "id": "CZ0103",
+          "zkratka": "Praha 3",
+          "nazev": "Praha 3",
+          "nuts4": "CZ0113"
+      },
+      {
+          "id": "CZ0105",
+          "zkratka": "Praha 5",
+          "nazev": "Praha 5",
+          "nuts4": "CZ0115"
+      },
+      {
+          "id": "CZ020B",
+          "zkratka": "Příbram",
+          "nazev": "Příbram",
+          "nuts4": "CZ021B"
+      },
+      {
+          "id": "CZ0324",
+          "zkratka": "Plzeň-jih",
+          "nazev": "Plzeň-jih",
+          "nuts4": "CZ0324"
+      },
+      {
+          "id": "CZ0531",
+          "zkratka": "Chrudim",
+          "nazev": "Chrudim",
+          "nuts4": "CZ0531"
+      },
+
+      {
+          "id": "CZ0645",
+          "zkratka": "Hodonín",
+          "nazev": "Hodonín",
+          "nuts4": "CZ0625"
+      },
+      {
+          "id": "CZ0524",
+          "zkratka": "Rychnov nad Kněžnou",
+          "nazev": "Rychnov nad Kněžnou",
+          "nuts4": "CZ0524"
+      },
+      {
+          "id": "CZ0722",
+          "zkratka": "Uherské Hradiště",
+          "nazev": "Uherské Hradiště",
+          "nuts4": "CZ0722"
+      },
+ 
+      {
+          "id": "CZ0715",
+          "zkratka": "Šumperk",
+          "nazev": "Šumperk",
+          "nuts4": "CZ0715"
+      },
+      {
+          "id": "CZ0411",
+          "zkratka": "Cheb",
+          "nazev": "Cheb",
+          "nuts4": "CZ0411"
+      },
+      {
+          "id": "CZ020C",
+          "zkratka": "Rakovník",
+          "nazev": "Rakovník",
+          "nuts4": "CZ021C"
+      },
+
+      {
+          "id": "CZ0803",
+          "zkratka": "Karviná",
+          "nazev": "Karviná",
+          "nuts4": "CZ0813"
+      },
+      {
+          "id": "CZ0711",
+          "zkratka": "Jeseník",
+          "nazev": "Jeseník",
+          "nuts4": "CZ0711"
+      },
+      {
+          "id": "CZ0203",
+          "zkratka": "Kladno",
+          "nazev": "Kladno",
+          "nuts4": "CZ0213"
+      },
+      {
+          "id": "CZ0106",
+          "zkratka": "Praha 6",
+          "nazev": "Praha 6",
+          "nuts4": "CZ0116"
+      },
+      {
+          "id": "CZ010F",
+          "zkratka": "Praha 15",
+          "nazev": "Praha 15",
+          "nuts4": "CZ010F"
+      },
+      {
+          "id": "CZ0317",
+          "zkratka": "Tábor",
+          "nazev": "Tábor",
+          "nuts4": "CZ0317"
+      },
+
+      {
+          "id": "CZ0532",
+          "zkratka": "Pardubice",
+          "nazev": "Pardubice",
+          "nuts4": "CZ0532"
+      },
+ 
+      {
+          "id": "CZ0327",
+          "zkratka": "Tachov",
+          "nazev": "Tachov",
+          "nuts4": "CZ0327"
+      },
+      {
+          "id": "CZ0204",
+          "zkratka": "Kolín",
+          "nazev": "Kolín",
+          "nuts4": "CZ0214"
+      },
+      {
+          "id": "CZ0713",
+          "zkratka": "Prostějov",
+          "nazev": "Prostějov",
+          "nuts4": "CZ0713"
+      },
+      {
+          "id": "CZ0108",
+          "zkratka": "Praha 8",
+          "nazev": "Praha 8",
+          "nuts4": "CZ0118"
+      },
+      {
+          "id": "CZ0712",
+          "zkratka": "Olomouc",
+          "nazev": "Olomouc",
+          "nuts4": "CZ0712"
+      },
+      {
+          "id": "CZ0805",
+          "zkratka": "Opava",
+          "nazev": "Opava",
+          "nuts4": "CZ0815"
+      },
+      {
+          "id": "CZ0323",
+          "zkratka": "Plzeň-město",
+          "nazev": "Plzeň-město",
+          "nuts4": "CZ0323"
+      },
+      {
+          "id": "CZ0644",
+          "zkratka": "Břeclav",
+          "nazev": "Břeclav",
+          "nuts4": "CZ0624"
+      },
+      {
+          "id": "CZ0513",
+          "zkratka": "Liberec",
+          "nazev": "Liberec",
+          "nuts4": "CZ0513"
+      },
+
+      {
+          "id": "CZ0311",
+          "zkratka": "České Budějovice",
+          "nazev": "České Budějovice",
+          "nuts4": "CZ0311"
+      },
+
+      {
+          "id": "CZ0423",
+          "zkratka": "Litoměřice",
+          "nazev": "Litoměřice",
+          "nuts4": "CZ0423"
+      },
+      {
+          "id": "CZ0107",
+          "zkratka": "Praha 7",
+          "nazev": "Praha 7",
+          "nuts4": "CZ0117"
+      },
+      {
+          "id": "CZ0109",
+          "zkratka": "Praha 9",
+          "nazev": "Praha 9",
+          "nuts4": "CZ0119"
+      },
+      {
+          "id": "CZ0801",
+          "zkratka": "Bruntál",
+          "nazev": "Bruntál",
+          "nuts4": "CZ0811"
+      },
+      {
+          "id": "CZ0642",
+          "zkratka": "Brno-město",
+          "nazev": "Brno-město",
+          "nuts4": "CZ0622"
+      },
+      {
+          "id": "CZ0316",
+          "zkratka": "Strakonice",
+          "nazev": "Strakonice",
+          "nuts4": "CZ0316"
+      },
+      {
+          "id": "CZ0104",
+          "zkratka": "Praha 4",
+          "nazev": "Praha 4",
+          "nuts4": "CZ0114"
+      },
+
+      {
+          "id": "CZ010C",
+          "zkratka": "Praha 12",
+          "nazev": "Praha 12",
+          "nuts4": "CZ011C"
+      },
+      {
+          "id": "CZ0633",
+          "zkratka": "Pelhřimov",
+          "nazev": "Pelhřimov",
+          "nuts4": "CZ0613"
+      },
+      {
+          "id": "CZ0635",
+          "zkratka": "Žďár nad Sázavou",
+          "nazev": "Žďár nad Sázavou",
+          "nuts4": "CZ0615"
+      },
+      {
+          "id": "CZ010A",
+          "zkratka": "Praha 10",
+          "nazev": "Praha 10",
+          "nuts4": "CZ011A"
+      },
+      {
+          "id": "CZ0641",
+          "zkratka": "Blansko",
+          "nazev": "Blansko",
+          "nuts4": "CZ0621"
+      },
+      {
+          "id": "CZ0802",
+          "zkratka": "Frýdek-Místek",
+          "nazev": "Frýdek-Místek",
+          "nuts4": "CZ0812"
+      },
+      {
+          "id": "CZ0521",
+          "zkratka": "Hradec Králové",
+          "nazev": "Hradec Králové",
+          "nuts4": "CZ0521"
+      },
+      {
+          "id": "CZ0422",
+          "zkratka": "Chomutov",
+          "nazev": "Chomutov",
+          "nuts4": "CZ0422"
+      },
+      {
+          "id": "CZ0631",
+          "zkratka": "Havlíčkův Brod",
+          "nazev": "Havlíčkův Brod",
+          "nuts4": "CZ0611"
+      },
+      {
+          "id": "CZ0325",
+          "zkratka": "Plzeň-sever",
+          "nazev": "Plzeň-sever",
+          "nuts4": "CZ0325"
+      },
+
+      {
+          "id": "CZ0326",
+          "zkratka": "Rokycany",
+          "nazev": "Rokycany",
+          "nuts4": "CZ0326"
+      },
+
+      {
+          "id": "CZ0421",
+          "zkratka": "Děčín",
+          "nazev": "Děčín",
+          "nuts4": "CZ0421"
+      },
+      {
+          "id": "CZ0315",
+          "zkratka": "Prachatice",
+          "nazev": "Prachatice",
+          "nuts4": "CZ0315"
+      },
+      {
+          "id": "CZ0647",
+          "zkratka": "Znojmo",
+          "nazev": "Znojmo",
+          "nuts4": "CZ0627"
+      },
+      {
+          "id": "CZ0313",
+          "zkratka": "Jindřichův Hradec",
+          "nazev": "Jindřichův Hradec",
+          "nuts4": "CZ0313"
+      },
+      {
+          "id": "CZ0533",
+          "zkratka": "Svitavy",
+          "nazev": "Svitavy",
+          "nuts4": "CZ0533"
+      },
+
+      {
+          "id": "CZ0424",
+          "zkratka": "Louny",
+          "nazev": "Louny",
+          "nuts4": "CZ0424"
+      },
+      {
+          "id": "CZ0806",
+          "zkratka": "Ostrava-město",
+          "nazev": "Ostrava-město",
+          "nuts4": "CZ0816"
+      },
+      {
+          "id": "CZ0206",
+          "zkratka": "Mělník",
+          "nazev": "Mělník",
+          "nuts4": "CZ0216"
+      },
+
+      {
+          "id": "CZ0721",
+          "zkratka": "Kroměříž",
+          "nazev": "Kroměříž",
+          "nuts4": "CZ0721"
+      },
+      {
+          "id": "CZ0634",
+          "zkratka": "Třebíč",
+          "nazev": "Třebíč",
+          "nuts4": "CZ0614"
+      },
+      {
+          "id": "CZ0714",
+          "zkratka": "Přerov",
+          "nazev": "Přerov",
+          "nuts4": "CZ0714"
+      },
+      {
+          "id": "CZ0427",
+          "zkratka": "Ústí nad Labem",
+          "nazev": "Ústí nad Labem",
+          "nuts4": "CZ0427"
+      },
+      {
+          "id": "CZ0205",
+          "zkratka": "Kutná Hora",
+          "nazev": "Kutná Hora",
+          "nuts4": "CZ0215"
+      },
+      {
+          "id": "CZ010D",
+          "zkratka": "Praha 13",
+          "nazev": "Praha 13",
+          "nuts4": "CZ011D"
+      },
+      {
+          "id": "CZ0724",
+          "zkratka": "Zlín",
+          "nazev": "Zlín",
+          "nuts4": "CZ0724"
+      },
+  
+      {
+          "id": "CZ0511",
+          "zkratka": "Česká Lípa",
+          "nazev": "Česká Lípa",
+          "nuts4": "CZ0511"
+      },
+
+ 
+      {
+          "id": "CZ010B",
+          "zkratka": "Praha 11",
+          "nazev": "Praha 11",
+          "nuts4": "CZ010B"
+      },
+      {
+          "id": "CZ0314",
+          "zkratka": "Písek",
+          "nazev": "Písek",
+          "nuts4": "CZ0314"
+      },
+  
+      {
+          "id": "CZ0312",
+          "zkratka": "Český Krumlov",
+          "nazev": "Český Krumlov",
+          "nuts4": "CZ0312"
+      },
+      {
+          "id": "CZ0202",
+          "zkratka": "Beroun",
+          "nazev": "Beroun",
+          "nuts4": "CZ0212"
+      },
+      {
+          "id": "CZ0632",
+          "zkratka": "Jihlava",
+          "nazev": "Jihlava",
+          "nuts4": "CZ0612"
+      },
+      {
+          "id": "CZ0412",
+          "zkratka": "Karlovy Vary",
+          "nazev": "Karlovy Vary",
+          "nuts4": "CZ0412"
+      },
+      {
+          "id": "CZ0646",
+          "zkratka": "Vyškov",
+          "nazev": "Vyškov",
+          "nuts4": "CZ0626"
+      },
+ 
+      {
+          "id": "CZ0101",
+          "zkratka": "Praha 1",
+          "nazev": "Praha 1",
+          "nuts4": "CZ0111"
+      },
+
+      {
+          "id": "CZ0523",
+          "zkratka": "Náchod",
+          "nazev": "Náchod",
+          "nuts4": "CZ0523"
+      },
+    
+      {
+          "id": "CZ0425",
+          "zkratka": "Most",
+          "nazev": "Most",
+          "nuts4": "CZ0425"
+      },
+      {
+          "id": "CZ0201",
+          "zkratka": "Benešov",
+          "nazev": "Benešov",
+          "nuts4": "CZ0211"
+      },
+      {
+          "id": "CZ010E",
+          "zkratka": "Praha 14",
+          "nazev": "Praha 14",
+          "nuts4": "CZ011E"
+      },
+      {
+          "id": "CZ0804",
+          "zkratka": "Nový Jičín",
+          "nazev": "Nový Jičín",
+          "nuts4": "CZ0814"
+      },
+      {
+          "id": "CZ0208",
+          "zkratka": "Nymburk",
+          "nazev": "Nymburk",
+          "nuts4": "CZ0218"
+      }
+  ]
