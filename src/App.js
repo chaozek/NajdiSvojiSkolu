@@ -11,7 +11,6 @@ export default function App() {
   const status = useSelector((state) => state.skoly.status);
   const skola = useSelector((state) => state.skoly.skola);
   const popupState = useSelector((state) => state.skoly.popup);
-  console.log(popupState);
   const dispatch = useDispatch();
   const popup = () => {
     return (
