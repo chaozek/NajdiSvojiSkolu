@@ -22,12 +22,14 @@ export default function App() {
             }}
             onClick={() => dispatch(setPopup())}
           />
-          <Header>{skola.Reditelstvi.RedPlnyNazev}</Header>
-          <UnderHeader>{skola.Reditelstvi.RedZkracenyNazev}</UnderHeader>
-          <Info>Jméno Ředitele: {skola.Reditelstvi.Reditel.ReditelJmeno}</Info>
+          <Header>{skola?.Reditelstvi?.RedPlnyNazev}</Header>
+          <UnderHeader>{skola?.Reditelstvi?.RedZkracenyNazev}</UnderHeader>
           <Info>
-            Adresa ředitele: {skola.Reditelstvi.Reditel.ReditelAdresa2},{" "}
-            {skola.Reditelstvi.Reditel.ReditelAdresa1}
+            Jméno Ředitele: {skola?.Reditelstvi?.Reditel?.ReditelJmeno}
+          </Info>
+          <Info>
+            Adresa ředitele: {skola?.Reditelstvi?.Reditel?.ReditelAdresa2},{" "}
+            {skola?.Reditelstvi?.Reditel?.ReditelAdresa1}
           </Info>
         </InnerPopup>
       </Popup>
