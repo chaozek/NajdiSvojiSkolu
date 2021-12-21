@@ -37,17 +37,43 @@ export const getSkoly = createAsyncThunk(
     }
   }
 );
+export const getExactSkola = createAsyncThunk(
+  "skoly/getExactSkola",
+  async (id) => {
+    try {
+      const config = {
+        method: "GET",
+        headers: {
+          "x-api-key": "yQbX0qhf4H9gCLO2RcJPB1vLGzHMSOV14qhKjsos",
+        },
+      };
+
+      const skola = await axios.get(
+        `https://api.apitalks.store/skoly/${id}`,
+        config
+      );
+      return skola.data;
+    } catch (error) {
+      return error;
+    }
+  }
+);
 
 const skolySlice = createSlice({
   name: "skoly",
   initialState: {
     skoly: [],
+    skola: {},
+    popup: false,
     status: null,
     error: null,
   },
   reducers: {
     clearSkolyArr: (state, action) => {
       state.skoly = [];
+    },
+    setPopup: (state, action) => {
+      state.popup = !state.popup;
     },
   },
   extraReducers: {
@@ -61,8 +87,18 @@ const skolySlice = createSlice({
     [getSkoly.rejected]: (state) => {
       state.status = "failed";
     },
+    [getExactSkola.pending]: (state) => {
+      state.status = "loading";
+    },
+    [getExactSkola.fulfilled]: (state, action) => {
+      state.skola = action.payload;
+      state.status = "success";
+    },
+    [getExactSkola.rejected]: (state) => {
+      state.status = "failed";
+    },
   },
 });
-export const { clearSkolyArr } = skolySlice.actions;
+export const { clearSkolyArr, setPopup } = skolySlice.actions;
 
 export default skolySlice.reducer;
